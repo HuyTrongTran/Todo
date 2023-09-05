@@ -4,7 +4,6 @@ function Header(){
     return html`
         <header class="header">
             <h1>To Do List</h1>
-            <h1>Bùi Store</h1>
             <input class="new-todo" 
                 placeholder="What needs to be done?" 
                 autofocus
